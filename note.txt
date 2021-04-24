@@ -6,3 +6,4 @@ Few Things happened:
 under your GitHub.com
 2. Made the connection with your local git repo
 3. Added all your commits to remote repo
+nex time 
