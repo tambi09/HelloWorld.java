@@ -1,0 +1,8 @@
+note.txt
+We just published our local git repo 
+to remote GitGub.com repository
+Few Things happened:
+1. It automaticall created new Remote Repo
+under your GitHub.com
+2. Made the connection with your local git repo
+3. Added all your commits to remote repo
